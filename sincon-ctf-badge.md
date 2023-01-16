@@ -14,7 +14,7 @@ And so the adventure begins [here](https://hackerwares.in/sincon) where instruct
 ## Badge Soldering
 The [LED Soldering Tutorial](https://www.hackerwares.in/sincon.pdf) provides concise steps with tips and tricks. The LEDs were tiny but my [_palms are sweaty, knees weak, arms are heavy_](https://www.youtube.com/watch?v=k5jg6xahxr4) so this task proved to be challenging. Multiple profanities and deep inhalations of solder fumes later (and not realising there was 1 unsoldered LED until the next day): 
 
-![[9E1A71EC-5C0E-411D-9C86-B3AEBE6D5286.jpeg)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/9E1A71EC-5C0E-411D-9C86-B3AEBE6D5286.jpeg)
 
 However, we won't know if we soldered them LEDs correctly until we complete the CTF. Onwards!
 
@@ -37,7 +37,7 @@ Enter `***` into console launch the CTF
 ### Lobby
 
 ```
-				        ++++++  -+++++*:
+	++++++  -+++++*:
                .*=             .#:
                .#-  -========-  .*=
              :-  *++*.       ++   *+
@@ -58,7 +58,7 @@ What could be the passcode? A closer inspection revealed finger prints on a few 
 Braille dots printed on the lanyard that came with the E-badge
 ![image](https://github.com/4nndorphin/writeups/blob/main/img/C2FA24F2-F6CB-434B-B0F6-712D55C8ED0D.jpeg)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Pasted image 20230106142839.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Pasted%20image%2020230106142839.png)
 
 ```Answer
 368078
