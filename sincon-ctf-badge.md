@@ -1,7 +1,7 @@
 # SINCON CTF Badge
 It was a great start to the year with [SINCON Reloaded Conference](https://www.infosec-city.com/sinrlcon) which hosted various talks, workshops, villages (and more). Having only experienced the conference virtually the last 2 editions, it was exciting to attend this year's conference IRL. And... to receive a hardware badge! 
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-15 at 23.43.41.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-15%20at%2023.43.41.png)
 
 This year's badge was designed by [Abhinav Pandagale](https://twitter.com/tweetsfrompanda) and features the iconic [Khong Guan Building](https://www.ura.gov.sg/Corporate/Resources/Publications/Skyline/Skyline-Issue10/AHA#:~:text=charm%20to%20it.-,Khong%20Guan%20Building,-2018%20Architectural%20Heritage) in Singapore. It consists of 2 parts; soldering of LEDs and a CTF. The CTF contains a bunch of crypto and OSINT challenges when solved, unlocks the corresponding LEDs and makes the badge LIT.
 
@@ -22,13 +22,13 @@ However, we won't know if we soldered them LEDs correctly until we complete the 
 Many thanks to fellow SINCON crew and participants for whom I would not have been able to complete this CTF without! 
 https://learn.sparkfun.com/tutorials/terminal-basics/arduino-serial-monitor-windows-mac-linux
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.42.44.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2018.42.44.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.43.13.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2018.43.13.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.43.47.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2018.43.47.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.45.29.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2018.45.29.png)
 
 In Arduino, go to Tools > Board > Uno, and Port > Serial port. Open the Serial Monitor
 
@@ -37,7 +37,7 @@ Enter `***` into console launch the CTF
 ### Lobby
 
 ```
-				 ++++++  -+++++*:
+				        ++++++  -+++++*:
                .*=             .#:
                .#-  -========-  .*=
              :-  *++*.       ++   *+
@@ -102,7 +102,7 @@ trail. A cookie crumbs trail that looks mysteriously organised...
 .-.  . -...  .- -.-  . -..
 ```
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.51.06.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2018.51.06.png)
 
 ```Answer
 rebaked
@@ -128,9 +128,9 @@ Perplexed, you look outside the window. There's a building right opposite with a
 ```
 
 Post code is 1 number off from the previous flag
- ![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.53.23.png)
+ ![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2018.53.23.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.55.08.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2018.55.08.png)
 
 ```Answer
 trivex
@@ -186,24 +186,24 @@ post of a hacker eating a cookie in an AESthetic way. It'd be interesting to dig
 deeper into what's going on.
 ```
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-06 at 12.34.32.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-06%20at%2012.34.32.png)
 
 ```
 4d6baebb8227248d2e1a5eb7c6fa8442bc6e2edc80f4c297a3329b9a46ba955c05d516b79a965bdfed3f116c70f651b0
 ```
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 19.12.29.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2019.12.29.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 19.02.24.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2019.02.24.png)
 
 Rude, but okay hahaha
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 19.03.59.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2019.03.59.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-06 at 12.33.24.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-06%20at%2012.33.24.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-06 at 12.28.43.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-06%20at%2012.28.43.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.03.16.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2001.03.16.png)
 
 ```Answer
 cookie sniffing
@@ -224,7 +224,7 @@ Success! The floor is unlocked.
 # 5th Floor
 
 ```
-The lift opens to a mysterious painting. At first, perplexing and yet in
+The lift opens to a mysterious painting.%20at%20first, perplexing and yet in
 
 some way weirdly organised. On the side is a note with gibberish 
 
@@ -235,21 +235,21 @@ written on it that says
 What this could be?
 ```
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 00.56.02.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2000.56.02.png)
 
 ```
 hackerwares in sinister
 ```
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 00.57.54.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2000.57.54.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 19.13.12.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-07%20at%2019.13.12.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 00.56.46.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2000.56.46.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 00.59.00.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2000.59.00.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-06 at 12.45.58.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-06%20at%2012.45.58.png)
 
 ```Answer
 leavening user agent
@@ -282,17 +282,17 @@ pinpoint the location name.
 ```
 
 brainfuck made our brains fucked lmao
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.01.46.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2001.01.46.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.21.50.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2001.21.50.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.23.00.png)
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.23.47.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2001.23.00.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2001.23.47.png)
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.04.28.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2001.04.28.png)
 
 _Came for the flag, stayed for the monolith
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.06.58.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot%202023-01-11%20at%2001.06.58.png)
 
 
 ![2001: A Space Odyssey](https://github.com/4nndorphin/writeups/blob/main/img/Pasted%20image%2020230111011335.png)
@@ -325,7 +325,7 @@ Congratulations for completing the CTF!
                  :***********+++-
 ```
 
-![image](https://github.com/4nndorphin/writeups/blob/main/img/Pasted image 20230111012627.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Pasted%20image%2020230111012627.png)
 
 ![image](https://github.com/4nndorphin/writeups/blob/main/img/777304DF-A3BD-4A07-82D7-E2220184AFC9.jpeg)
 
