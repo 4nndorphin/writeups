@@ -1,11 +1,12 @@
 # SINCON CTF Badge
 It was a great start to the year with [SINCON Reloaded Conference](https://www.infosec-city.com/sinrlcon) which hosted various talks, workshops, villages (and more). Having only experienced the conference virtually the last 2 editions, it was exciting to attend this year's conference IRL. And... to receive a hardware badge! 
 
-![[Screenshot 2023-01-15 at 23.43.41.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-15 at 23.43.41.png)
 
 This year's badge was designed by [Abhinav Pandagale](https://twitter.com/tweetsfrompanda) and features the iconic [Khong Guan Building](https://www.ura.gov.sg/Corporate/Resources/Publications/Skyline/Skyline-Issue10/AHA#:~:text=charm%20to%20it.-,Khong%20Guan%20Building,-2018%20Architectural%20Heritage) in Singapore. It consists of 2 parts; soldering of LEDs and a CTF. The CTF contains a bunch of crypto and OSINT challenges when solved, unlocks the corresponding LEDs and makes the badge LIT.
 
-![[ctf_badge.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/ctf_badge.png)
+
 _Source: [Infosec In the City](https://twitter.com/Infosec_City)_
 
 And so the adventure begins [here](https://hackerwares.in/sincon) where instructions can be found.
@@ -13,7 +14,7 @@ And so the adventure begins [here](https://hackerwares.in/sincon) where instruct
 ## Badge Soldering
 The [LED Soldering Tutorial](https://www.hackerwares.in/sincon.pdf) provides concise steps with tips and tricks. The LEDs were tiny but my [_palms are sweaty, knees weak, arms are heavy_](https://www.youtube.com/watch?v=k5jg6xahxr4) so this task proved to be challenging. Multiple profanities and deep inhalations of solder fumes later (and not realising there was 1 unsoldered LED until the next day): 
 
-![[9E1A71EC-5C0E-411D-9C86-B3AEBE6D5286.jpeg]]
+![[9E1A71EC-5C0E-411D-9C86-B3AEBE6D5286.jpeg)
 
 However, we won't know if we soldered them LEDs correctly until we complete the CTF. Onwards!
 
@@ -21,13 +22,13 @@ However, we won't know if we soldered them LEDs correctly until we complete the 
 Many thanks to fellow SINCON crew and participants for whom I would not have been able to complete this CTF without! 
 https://learn.sparkfun.com/tutorials/terminal-basics/arduino-serial-monitor-windows-mac-linux
 
-![[Screenshot 2023-01-07 at 18.42.44.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.42.44.png)
 
-![[Screenshot 2023-01-07 at 18.43.13.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.43.13.png)
 
-![[Screenshot 2023-01-07 at 18.43.47.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.43.47.png)
 
-![[Screenshot 2023-01-07 at 18.45.29.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.45.29.png)
 
 In Arduino, go to Tools > Board > Uno, and Port > Serial port. Open the Serial Monitor
 
@@ -55,9 +56,9 @@ What could be the passcode? A closer inspection revealed finger prints on a few 
 ```
 
 Braille dots printed on the lanyard that came with the E-badge
-![[C2FA24F2-F6CB-434B-B0F6-712D55C8ED0D.jpeg]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/C2FA24F2-F6CB-434B-B0F6-712D55C8ED0D.jpeg)
 
-![[Pasted image 20230106142839.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Pasted image 20230106142839.png)
 
 ```Answer
 368078
@@ -101,7 +102,7 @@ trail. A cookie crumbs trail that looks mysteriously organised...
 .-.  . -...  .- -.-  . -..
 ```
 
-![[Screenshot 2023-01-07 at 18.51.06.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.51.06.png)
 
 ```Answer
 rebaked
@@ -127,9 +128,9 @@ Perplexed, you look outside the window. There's a building right opposite with a
 ```
 
 Post code is 1 number off from the previous flag
- ![[Screenshot 2023-01-07 at 18.53.23.png]]
+ ![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.53.23.png)
 
-![[Screenshot 2023-01-07 at 18.55.08.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 18.55.08.png)
 
 ```Answer
 trivex
@@ -157,7 +158,7 @@ sincon@hackerwares.in in their signature. Would it be possible to locate this so
 
 Reverse email look up didn't yield much 
 
-![[907EF62C-70CC-4862-9A0B-46334F7A9216.jpeg]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/907EF62C-70CC-4862-9A0B-46334F7A9216.jpeg)
 
 ```Answer
 sinconnoisseurs
@@ -185,24 +186,24 @@ post of a hacker eating a cookie in an AESthetic way. It'd be interesting to dig
 deeper into what's going on.
 ```
 
-![[Screenshot 2023-01-06 at 12.34.32.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-06 at 12.34.32.png)
 
 ```
 4d6baebb8227248d2e1a5eb7c6fa8442bc6e2edc80f4c297a3329b9a46ba955c05d516b79a965bdfed3f116c70f651b0
 ```
 
-![[Screenshot 2023-01-07 at 19.12.29.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 19.12.29.png)
 
-![[Screenshot 2023-01-07 at 19.02.24.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 19.02.24.png)
 
 Rude, but okay hahaha
-![[Screenshot 2023-01-07 at 19.03.59.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 19.03.59.png)
 
-![[Screenshot 2023-01-06 at 12.33.24.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-06 at 12.33.24.png)
 
-![[Screenshot 2023-01-06 at 12.28.43.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-06 at 12.28.43.png)
 
-![[Screenshot 2023-01-11 at 01.03.16.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.03.16.png)
 
 ```Answer
 cookie sniffing
@@ -234,21 +235,21 @@ written on it that says
 What this could be?
 ```
 
-![[Screenshot 2023-01-11 at 00.56.02.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 00.56.02.png)
 
 ```
 hackerwares in sinister
 ```
 
-![[Screenshot 2023-01-11 at 00.57.54.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 00.57.54.png)
 
-![[Screenshot 2023-01-07 at 19.13.12.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-07 at 19.13.12.png)
 
-![[Screenshot 2023-01-11 at 00.56.46.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 00.56.46.png)
 
-![[Screenshot 2023-01-11 at 00.59.00.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 00.59.00.png)
 
-![[Screenshot 2023-01-06 at 12.45.58.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-06 at 12.45.58.png)
 
 ```Answer
 leavening user agent
@@ -281,22 +282,20 @@ pinpoint the location name.
 ```
 
 brainfuck made our brains fucked lmao
-![[Screenshot 2023-01-11 at 01.01.46.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.01.46.png)
 
-![[Screenshot 2023-01-11 at 01.21.50.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.21.50.png)
 
-![[Screenshot 2023-01-11 at 01.23.00.png]]
-![[Screenshot 2023-01-11 at 01.23.47.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.23.00.png)
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.23.47.png)
 
-![[Screenshot 2023-01-11 at 01.04.28.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.04.28.png)
 
 _Came for the flag, stayed for the monolith
-![[Screenshot 2023-01-11 at 01.06.58.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Screenshot 2023-01-11 at 01.06.58.png)
 
 
 ![2001: A Space Odyssey](https://github.com/4nndorphin/writeups/blob/main/img/Pasted%20image%2020230111011335.png)
-
-![[Pasted image 20230111011335.png]]
 
 ```Answer
 tirjup hut
@@ -326,9 +325,9 @@ Congratulations for completing the CTF!
                  :***********+++-
 ```
 
-![[Pasted image 20230111012627.png]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/Pasted image 20230111012627.png)
 
-![[777304DF-A3BD-4A07-82D7-E2220184AFC9.jpeg]]
+![image](https://github.com/4nndorphin/writeups/blob/main/img/777304DF-A3BD-4A07-82D7-E2220184AFC9.jpeg)
 
 ### Reset
 If you have the If you have the _feminine/masculine/nonbinary_ urge to watch the badge light up like a Christmas tree again, enter `RESET` into the console to play again
