@@ -293,6 +293,9 @@ brainfuck made our brains fucked lmao
 _Came for the flag, stayed for the monolith
 ![[Screenshot 2023-01-11 at 01.06.58.png]]
 
+
+![2001: A Space Odyssey](https://github.com/4nndorphin/writeups/blob/main/img/Pasted%20image%2020230111011335.png)
+
 ![[Pasted image 20230111011335.png]]
 
 ```Answer
