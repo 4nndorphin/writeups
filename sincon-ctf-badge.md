@@ -224,7 +224,7 @@ Success! The floor is unlocked.
 # 5th Floor
 
 ```
-The lift opens to a mysterious painting.%20at%20first, perplexing and yet in
+The lift opens to a mysterious painting. At first, perplexing and yet in
 
 some way weirdly organised. On the side is a note with gibberish 
 
